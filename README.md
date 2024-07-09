@@ -3,7 +3,7 @@
 
 MERN-E-Commerce-Backend is the backend of an e-commerce web application built with MongoDB, NodeJS, and ExpressJS.
 
-The frontend of the application is built with ReactJS, Material UI, React-router-dom,ContextAPI. The source code for the frontend can be found at [https://github.com/Saurabh-8585/MERN-E-Commerce-Frontend](https://github.com/howardjohnson159/react_ecommerce).
+The frontend of the application is built with ReactJS, Material UI, React-router-dom,ContextAPI. The source code for the frontend can be found at [https://github.com/howardjohnson159/react_ecommerce](https://github.com/howardjohnson159/react_ecommerce).
 
 ## Features
 
